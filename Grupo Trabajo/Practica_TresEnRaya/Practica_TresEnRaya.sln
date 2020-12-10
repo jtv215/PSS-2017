@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TresEnRaya", "TresEnRaya\TresEnRaya.csproj", "{1EB47536-17C0-4D26-99B8-C0073B218A99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test", "test\test.csproj", "{8FAE2C13-9E1A-4386-9B45-B0A161E7A5DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1EB47536-17C0-4D26-99B8-C0073B218A99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EB47536-17C0-4D26-99B8-C0073B218A99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EB47536-17C0-4D26-99B8-C0073B218A99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EB47536-17C0-4D26-99B8-C0073B218A99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FAE2C13-9E1A-4386-9B45-B0A161E7A5DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FAE2C13-9E1A-4386-9B45-B0A161E7A5DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FAE2C13-9E1A-4386-9B45-B0A161E7A5DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FAE2C13-9E1A-4386-9B45-B0A161E7A5DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://150.214.150.139:8080/tfs/2016-pss-alumnos
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = test\\test.csproj
+		SccProjectName1 = test
+		SccLocalPath1 = test
+		SccProjectUniqueName2 = TresEnRaya\\TresEnRaya.csproj
+		SccProjectName2 = TresEnRaya
+		SccLocalPath2 = TresEnRaya
+	EndGlobalSection
+EndGlobal

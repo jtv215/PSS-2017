@@ -1,0 +1,5 @@
+C:\TFS\GINEBRA\2016-PSS-ALUMNOS\Tomala Villarreal Jefferson Max (jtv215)\Grupo Trabajo\Practica_05\Linq\bin\Debug\Linq.dll
+C:\TFS\GINEBRA\2016-PSS-ALUMNOS\Tomala Villarreal Jefferson Max (jtv215)\Grupo Trabajo\Practica_05\Linq\bin\Debug\Linq.pdb
+C:\TFS\GINEBRA\2016-PSS-ALUMNOS\Tomala Villarreal Jefferson Max (jtv215)\Grupo Trabajo\Practica_05\Linq\obj\Debug\Linq.dll
+C:\TFS\GINEBRA\2016-PSS-ALUMNOS\Tomala Villarreal Jefferson Max (jtv215)\Grupo Trabajo\Practica_05\Linq\obj\Debug\Linq.pdb
+C:\TFS\GINEBRA\2016-PSS-ALUMNOS\Tomala Villarreal Jefferson Max (jtv215)\Grupo Trabajo\Practica_05\Linq\obj\Debug\Linq.csprojResolveAssemblyReference.cache

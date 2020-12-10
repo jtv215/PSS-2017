@@ -1,0 +1,67 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfacesExamen", "ClassLibrary1\InterfacesExamen.csproj", "{ECAFCEDA-9ACC-4E53-B2EE-FF1E047C2CAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MantenimientoXML", "MantenimientoXML\MantenimientoXML.csproj", "{EBF29E9F-F8EF-458D-90DB-356E2F9ACCDE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProcesosXML", "ProcesosXML\ProcesosXML.csproj", "{4DA96E3C-46ED-4C69-A81A-0F34337660D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppXML", "AppXML\AppXML.csproj", "{59845E1A-948E-4F77-84E5-451B93A32087}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{EBEAACFB-8765-42D6-916C-C586B2693108}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECAFCEDA-9ACC-4E53-B2EE-FF1E047C2CAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECAFCEDA-9ACC-4E53-B2EE-FF1E047C2CAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECAFCEDA-9ACC-4E53-B2EE-FF1E047C2CAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECAFCEDA-9ACC-4E53-B2EE-FF1E047C2CAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBF29E9F-F8EF-458D-90DB-356E2F9ACCDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBF29E9F-F8EF-458D-90DB-356E2F9ACCDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBF29E9F-F8EF-458D-90DB-356E2F9ACCDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBF29E9F-F8EF-458D-90DB-356E2F9ACCDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DA96E3C-46ED-4C69-A81A-0F34337660D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DA96E3C-46ED-4C69-A81A-0F34337660D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DA96E3C-46ED-4C69-A81A-0F34337660D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DA96E3C-46ED-4C69-A81A-0F34337660D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59845E1A-948E-4F77-84E5-451B93A32087}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59845E1A-948E-4F77-84E5-451B93A32087}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59845E1A-948E-4F77-84E5-451B93A32087}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59845E1A-948E-4F77-84E5-451B93A32087}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBEAACFB-8765-42D6-916C-C586B2693108}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBEAACFB-8765-42D6-916C-C586B2693108}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBEAACFB-8765-42D6-916C-C586B2693108}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBEAACFB-8765-42D6-916C-C586B2693108}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 6
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://150.214.150.139:8080/tfs/2016-pss-alumnos
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = ClassLibrary1\\InterfacesExamen.csproj
+		SccProjectName1 = ClassLibrary1
+		SccLocalPath1 = ClassLibrary1
+		SccProjectUniqueName2 = MantenimientoXML\\MantenimientoXML.csproj
+		SccProjectName2 = MantenimientoXML
+		SccLocalPath2 = MantenimientoXML
+		SccProjectUniqueName3 = ProcesosXML\\ProcesosXML.csproj
+		SccProjectName3 = ProcesosXML
+		SccLocalPath3 = ProcesosXML
+		SccProjectUniqueName4 = AppXML\\AppXML.csproj
+		SccProjectName4 = AppXML
+		SccLocalPath4 = AppXML
+		SccProjectUniqueName5 = Test\\Test.csproj
+		SccProjectName5 = Test
+		SccLocalPath5 = Test
+	EndGlobalSection
+EndGlobal

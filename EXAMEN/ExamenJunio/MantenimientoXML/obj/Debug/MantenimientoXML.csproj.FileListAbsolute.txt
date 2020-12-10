@@ -1,0 +1,7 @@
+C:\TFS\GINEBRA\2016-PSS-ALUMNOS\Tomala Villarreal Jefferson Max (jtv215)\EXAMEN\ExamenJunio\MantenimientoXML\obj\Debug\MantenimientoXML.csprojResolveAssemblyReference.cache
+C:\TFS\GINEBRA\2016-PSS-ALUMNOS\Tomala Villarreal Jefferson Max (jtv215)\EXAMEN\ExamenJunio\MantenimientoXML\bin\Debug\MantenimientoXML.dll
+C:\TFS\GINEBRA\2016-PSS-ALUMNOS\Tomala Villarreal Jefferson Max (jtv215)\EXAMEN\ExamenJunio\MantenimientoXML\bin\Debug\MantenimientoXML.pdb
+C:\TFS\GINEBRA\2016-PSS-ALUMNOS\Tomala Villarreal Jefferson Max (jtv215)\EXAMEN\ExamenJunio\MantenimientoXML\bin\Debug\ClassLibrary1.dll
+C:\TFS\GINEBRA\2016-PSS-ALUMNOS\Tomala Villarreal Jefferson Max (jtv215)\EXAMEN\ExamenJunio\MantenimientoXML\bin\Debug\ClassLibrary1.pdb
+C:\TFS\GINEBRA\2016-PSS-ALUMNOS\Tomala Villarreal Jefferson Max (jtv215)\EXAMEN\ExamenJunio\MantenimientoXML\obj\Debug\MantenimientoXML.dll
+C:\TFS\GINEBRA\2016-PSS-ALUMNOS\Tomala Villarreal Jefferson Max (jtv215)\EXAMEN\ExamenJunio\MantenimientoXML\obj\Debug\MantenimientoXML.pdb

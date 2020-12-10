@@ -1,0 +1,9 @@
+C:\TFS\GINEBRA\2016-PSS-ALUMNOS\Tomala Villarreal Jefferson Max (jtv215)\Grupo Trabajo\Practica_02\TestColeccionUsuarioView\bin\Debug\TestColeccionUsuarioView.dll
+C:\TFS\GINEBRA\2016-PSS-ALUMNOS\Tomala Villarreal Jefferson Max (jtv215)\Grupo Trabajo\Practica_02\TestColeccionUsuarioView\bin\Debug\TestColeccionUsuarioView.pdb
+C:\TFS\GINEBRA\2016-PSS-ALUMNOS\Tomala Villarreal Jefferson Max (jtv215)\Grupo Trabajo\Practica_02\TestColeccionUsuarioView\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\TFS\GINEBRA\2016-PSS-ALUMNOS\Tomala Villarreal Jefferson Max (jtv215)\Grupo Trabajo\Practica_02\TestColeccionUsuarioView\bin\Debug\UsuarioView.dll
+C:\TFS\GINEBRA\2016-PSS-ALUMNOS\Tomala Villarreal Jefferson Max (jtv215)\Grupo Trabajo\Practica_02\TestColeccionUsuarioView\bin\Debug\UsuarioView.pdb
+C:\TFS\GINEBRA\2016-PSS-ALUMNOS\Tomala Villarreal Jefferson Max (jtv215)\Grupo Trabajo\Practica_02\TestColeccionUsuarioView\bin\Debug\es\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\TFS\GINEBRA\2016-PSS-ALUMNOS\Tomala Villarreal Jefferson Max (jtv215)\Grupo Trabajo\Practica_02\TestColeccionUsuarioView\obj\Debug\TestColeccionUsuarioView.csprojResolveAssemblyReference.cache
+C:\TFS\GINEBRA\2016-PSS-ALUMNOS\Tomala Villarreal Jefferson Max (jtv215)\Grupo Trabajo\Practica_02\TestColeccionUsuarioView\obj\Debug\TestColeccionUsuarioView.dll
+C:\TFS\GINEBRA\2016-PSS-ALUMNOS\Tomala Villarreal Jefferson Max (jtv215)\Grupo Trabajo\Practica_02\TestColeccionUsuarioView\obj\Debug\TestColeccionUsuarioView.pdb

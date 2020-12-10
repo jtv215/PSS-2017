@@ -1,0 +1,5 @@
+C:\TFS\GINEBRA\2016-PSS-ALUMNOS\Tomala Villarreal Jefferson Max (jtv215)\Grupo Trabajo\Practica_03\Bingo\BingoClassLibrary\bin\Debug\BingoClassLibrary.dll
+C:\TFS\GINEBRA\2016-PSS-ALUMNOS\Tomala Villarreal Jefferson Max (jtv215)\Grupo Trabajo\Practica_03\Bingo\BingoClassLibrary\bin\Debug\BingoClassLibrary.pdb
+C:\TFS\GINEBRA\2016-PSS-ALUMNOS\Tomala Villarreal Jefferson Max (jtv215)\Grupo Trabajo\Practica_03\Bingo\BingoClassLibrary\obj\Debug\BingoClassLibrary.csprojResolveAssemblyReference.cache
+C:\TFS\GINEBRA\2016-PSS-ALUMNOS\Tomala Villarreal Jefferson Max (jtv215)\Grupo Trabajo\Practica_03\Bingo\BingoClassLibrary\obj\Debug\BingoClassLibrary.dll
+C:\TFS\GINEBRA\2016-PSS-ALUMNOS\Tomala Villarreal Jefferson Max (jtv215)\Grupo Trabajo\Practica_03\Bingo\BingoClassLibrary\obj\Debug\BingoClassLibrary.pdb

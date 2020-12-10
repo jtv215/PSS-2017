@@ -1,0 +1,6 @@
+C:\TFS\GINEBRA\2016-PSS-ALUMNOS\Tomala Villarreal Jefferson Max (jtv215)\Grupo Trabajo\Practica_TresEnRaya\TresEnRaya\bin\Debug\TresEnRaya.exe.config
+C:\TFS\GINEBRA\2016-PSS-ALUMNOS\Tomala Villarreal Jefferson Max (jtv215)\Grupo Trabajo\Practica_TresEnRaya\TresEnRaya\bin\Debug\TresEnRaya.exe
+C:\TFS\GINEBRA\2016-PSS-ALUMNOS\Tomala Villarreal Jefferson Max (jtv215)\Grupo Trabajo\Practica_TresEnRaya\TresEnRaya\bin\Debug\TresEnRaya.pdb
+C:\TFS\GINEBRA\2016-PSS-ALUMNOS\Tomala Villarreal Jefferson Max (jtv215)\Grupo Trabajo\Practica_TresEnRaya\TresEnRaya\obj\Debug\TresEnRaya.csprojResolveAssemblyReference.cache
+C:\TFS\GINEBRA\2016-PSS-ALUMNOS\Tomala Villarreal Jefferson Max (jtv215)\Grupo Trabajo\Practica_TresEnRaya\TresEnRaya\obj\Debug\TresEnRaya.exe
+C:\TFS\GINEBRA\2016-PSS-ALUMNOS\Tomala Villarreal Jefferson Max (jtv215)\Grupo Trabajo\Practica_TresEnRaya\TresEnRaya\obj\Debug\TresEnRaya.pdb

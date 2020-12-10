@@ -1,0 +1,12 @@
+C:\TFS\GINEBRA\2016-PSS-ALUMNOS\Tomala Villarreal Jefferson Max (jtv215)\EXAMEN\ExamenJunio\AppXML\obj\Debug\AppXML.csprojResolveAssemblyReference.cache
+C:\TFS\GINEBRA\2016-PSS-ALUMNOS\Tomala Villarreal Jefferson Max (jtv215)\EXAMEN\ExamenJunio\AppXML\bin\Debug\AppXML.exe.config
+C:\TFS\GINEBRA\2016-PSS-ALUMNOS\Tomala Villarreal Jefferson Max (jtv215)\EXAMEN\ExamenJunio\AppXML\bin\Debug\AppXML.exe
+C:\TFS\GINEBRA\2016-PSS-ALUMNOS\Tomala Villarreal Jefferson Max (jtv215)\EXAMEN\ExamenJunio\AppXML\bin\Debug\AppXML.pdb
+C:\TFS\GINEBRA\2016-PSS-ALUMNOS\Tomala Villarreal Jefferson Max (jtv215)\EXAMEN\ExamenJunio\AppXML\bin\Debug\ClassLibrary1.dll
+C:\TFS\GINEBRA\2016-PSS-ALUMNOS\Tomala Villarreal Jefferson Max (jtv215)\EXAMEN\ExamenJunio\AppXML\bin\Debug\MantenimientoXML.dll
+C:\TFS\GINEBRA\2016-PSS-ALUMNOS\Tomala Villarreal Jefferson Max (jtv215)\EXAMEN\ExamenJunio\AppXML\bin\Debug\ProcesosXML.dll
+C:\TFS\GINEBRA\2016-PSS-ALUMNOS\Tomala Villarreal Jefferson Max (jtv215)\EXAMEN\ExamenJunio\AppXML\bin\Debug\ClassLibrary1.pdb
+C:\TFS\GINEBRA\2016-PSS-ALUMNOS\Tomala Villarreal Jefferson Max (jtv215)\EXAMEN\ExamenJunio\AppXML\bin\Debug\MantenimientoXML.pdb
+C:\TFS\GINEBRA\2016-PSS-ALUMNOS\Tomala Villarreal Jefferson Max (jtv215)\EXAMEN\ExamenJunio\AppXML\bin\Debug\ProcesosXML.pdb
+C:\TFS\GINEBRA\2016-PSS-ALUMNOS\Tomala Villarreal Jefferson Max (jtv215)\EXAMEN\ExamenJunio\AppXML\obj\Debug\AppXML.exe
+C:\TFS\GINEBRA\2016-PSS-ALUMNOS\Tomala Villarreal Jefferson Max (jtv215)\EXAMEN\ExamenJunio\AppXML\obj\Debug\AppXML.pdb

@@ -1,0 +1,5 @@
+C:\TFS\GINEBRA\2016-PSS-ALUMNOS\Tomala Villarreal Jefferson Max (jtv215)\Trabajo Autonomo\practica_02\interfazIEquatable\interfazIEquatable\bin\Debug\interfazIEquatable.dll
+C:\TFS\GINEBRA\2016-PSS-ALUMNOS\Tomala Villarreal Jefferson Max (jtv215)\Trabajo Autonomo\practica_02\interfazIEquatable\interfazIEquatable\bin\Debug\interfazIEquatable.pdb
+C:\TFS\GINEBRA\2016-PSS-ALUMNOS\Tomala Villarreal Jefferson Max (jtv215)\Trabajo Autonomo\practica_02\interfazIEquatable\interfazIEquatable\obj\Debug\interfazIEquatable.csprojResolveAssemblyReference.cache
+C:\TFS\GINEBRA\2016-PSS-ALUMNOS\Tomala Villarreal Jefferson Max (jtv215)\Trabajo Autonomo\practica_02\interfazIEquatable\interfazIEquatable\obj\Debug\interfazIEquatable.dll
+C:\TFS\GINEBRA\2016-PSS-ALUMNOS\Tomala Villarreal Jefferson Max (jtv215)\Trabajo Autonomo\practica_02\interfazIEquatable\interfazIEquatable\obj\Debug\interfazIEquatable.pdb

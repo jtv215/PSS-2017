@@ -1,0 +1,5 @@
+C:\TFS\GINEBRA\2016-PSS-ALUMNOS\Tomala Villarreal Jefferson Max (jtv215)\Grupo Trabajo\Practica_04\RecorridoSecuencia\obj\Debug\RecorridoSecuencia.csprojResolveAssemblyReference.cache
+C:\TFS\GINEBRA\2016-PSS-ALUMNOS\Tomala Villarreal Jefferson Max (jtv215)\Grupo Trabajo\Practica_04\RecorridoSecuencia\bin\Debug\RecorridoSecuencia.dll
+C:\TFS\GINEBRA\2016-PSS-ALUMNOS\Tomala Villarreal Jefferson Max (jtv215)\Grupo Trabajo\Practica_04\RecorridoSecuencia\bin\Debug\RecorridoSecuencia.pdb
+C:\TFS\GINEBRA\2016-PSS-ALUMNOS\Tomala Villarreal Jefferson Max (jtv215)\Grupo Trabajo\Practica_04\RecorridoSecuencia\obj\Debug\RecorridoSecuencia.dll
+C:\TFS\GINEBRA\2016-PSS-ALUMNOS\Tomala Villarreal Jefferson Max (jtv215)\Grupo Trabajo\Practica_04\RecorridoSecuencia\obj\Debug\RecorridoSecuencia.pdb

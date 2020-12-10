@@ -1,0 +1,9 @@
+C:\TFS\GINEBRA\2016-PSS-ALUMNOS\Tomala Villarreal Jefferson Max (jtv215)\Grupo Trabajo\Practica_06\TestBaseDatosLocal\bin\Debug\AutentificacionDB.mdf
+C:\TFS\GINEBRA\2016-PSS-ALUMNOS\Tomala Villarreal Jefferson Max (jtv215)\Grupo Trabajo\Practica_06\TestBaseDatosLocal\bin\Debug\AutentificacionDB_log.ldf
+C:\TFS\GINEBRA\2016-PSS-ALUMNOS\Tomala Villarreal Jefferson Max (jtv215)\Grupo Trabajo\Practica_06\TestBaseDatosLocal\bin\Debug\TestBaseDatosLocal.dll
+C:\TFS\GINEBRA\2016-PSS-ALUMNOS\Tomala Villarreal Jefferson Max (jtv215)\Grupo Trabajo\Practica_06\TestBaseDatosLocal\bin\Debug\TestBaseDatosLocal.pdb
+C:\TFS\GINEBRA\2016-PSS-ALUMNOS\Tomala Villarreal Jefferson Max (jtv215)\Grupo Trabajo\Practica_06\TestBaseDatosLocal\bin\Debug\AuntentificacionUsuarios.dll
+C:\TFS\GINEBRA\2016-PSS-ALUMNOS\Tomala Villarreal Jefferson Max (jtv215)\Grupo Trabajo\Practica_06\TestBaseDatosLocal\bin\Debug\AuntentificacionUsuarios.pdb
+C:\TFS\GINEBRA\2016-PSS-ALUMNOS\Tomala Villarreal Jefferson Max (jtv215)\Grupo Trabajo\Practica_06\TestBaseDatosLocal\obj\Debug\TestBaseDatosLocal.csprojResolveAssemblyReference.cache
+C:\TFS\GINEBRA\2016-PSS-ALUMNOS\Tomala Villarreal Jefferson Max (jtv215)\Grupo Trabajo\Practica_06\TestBaseDatosLocal\obj\Debug\TestBaseDatosLocal.dll
+C:\TFS\GINEBRA\2016-PSS-ALUMNOS\Tomala Villarreal Jefferson Max (jtv215)\Grupo Trabajo\Practica_06\TestBaseDatosLocal\obj\Debug\TestBaseDatosLocal.pdb

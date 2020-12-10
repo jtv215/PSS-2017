@@ -1,0 +1,13 @@
+C:\TFS\GINEBRA\2016-PSS-ALUMNOS\Tomala Villarreal Jefferson Max (jtv215)\Grupo Trabajo\Practica_03\TiroAlBlanco\TiroAlBlancoConsolaApp\bin\Debug\TiroAlBlancoConsolaApp.exe.config
+C:\TFS\GINEBRA\2016-PSS-ALUMNOS\Tomala Villarreal Jefferson Max (jtv215)\Grupo Trabajo\Practica_03\TiroAlBlanco\TiroAlBlancoConsolaApp\bin\Debug\TiroAlBlancoConsolaApp.exe
+C:\TFS\GINEBRA\2016-PSS-ALUMNOS\Tomala Villarreal Jefferson Max (jtv215)\Grupo Trabajo\Practica_03\TiroAlBlanco\TiroAlBlancoConsolaApp\bin\Debug\TiroAlBlancoConsolaApp.pdb
+C:\TFS\GINEBRA\2016-PSS-ALUMNOS\Tomala Villarreal Jefferson Max (jtv215)\Grupo Trabajo\Practica_03\TiroAlBlanco\TiroAlBlancoConsolaApp\obj\Debug\TiroAlBlancoConsolaApp.csprojResolveAssemblyReference.cache
+C:\TFS\GINEBRA\2016-PSS-ALUMNOS\Tomala Villarreal Jefferson Max (jtv215)\Grupo Trabajo\Practica_03\TiroAlBlanco\TiroAlBlancoConsolaApp\obj\Debug\TiroAlBlancoConsolaApp.exe
+C:\TFS\GINEBRA\2016-PSS-ALUMNOS\Tomala Villarreal Jefferson Max (jtv215)\Grupo Trabajo\Practica_03\TiroAlBlanco\TiroAlBlancoConsolaApp\obj\Debug\TiroAlBlancoConsolaApp.pdb
+C:\TFS\GINEBRA\2016-PSS-ALUMNOS\Tomala Villarreal Jefferson Max (jtv215)\Grupo Trabajo\Practica_03\TiroAlBlanco\TiroAlBlancoConsolaApp\bin\Debug\TiroAlBlancoModel.dll
+C:\TFS\GINEBRA\2016-PSS-ALUMNOS\Tomala Villarreal Jefferson Max (jtv215)\Grupo Trabajo\Practica_03\TiroAlBlanco\TiroAlBlancoConsolaApp\bin\Debug\TiroAlBlancoModel.pdb
+C:\TFS\GINEBRA\2016-PSS-ALUMNOS\Tomala Villarreal Jefferson Max (jtv215)\Grupo Trabajo\Practica_03\TiroAlBlanco\TiroAlBlancoConsolaApp\obj\Debug\TiroAlBlancoConsolaApp.TiroAlBlanco.resources
+C:\TFS\GINEBRA\2016-PSS-ALUMNOS\Tomala Villarreal Jefferson Max (jtv215)\Grupo Trabajo\Practica_03\TiroAlBlanco\TiroAlBlancoConsolaApp\obj\Debug\TiroAlBlancoConsolaApp.csproj.GenerateResource.Cache
+C:\TFS\GINEBRA\2016-PSS-ALUMNOS\Tomala Villarreal Jefferson Max (jtv215)\Grupo Trabajo\Practica_03\TiroAlBlanco\TiroAlBlancoConsolaApp\obj\Debug\TiroAlBlancoConsolaApp.TiroAlBlanco.en-US.resources
+C:\TFS\GINEBRA\2016-PSS-ALUMNOS\Tomala Villarreal Jefferson Max (jtv215)\Grupo Trabajo\Practica_03\TiroAlBlanco\TiroAlBlancoConsolaApp\bin\Debug\en-US\TiroAlBlancoConsolaApp.resources.dll
+C:\TFS\GINEBRA\2016-PSS-ALUMNOS\Tomala Villarreal Jefferson Max (jtv215)\Grupo Trabajo\Practica_03\TiroAlBlanco\TiroAlBlancoConsolaApp\obj\Debug\en-US\TiroAlBlancoConsolaApp.resources.dll

@@ -1,0 +1,7 @@
+C:\TFS\GINEBRA\2016-PSS-ALUMNOS\Tomala Villarreal Jefferson Max (jtv215)\EXAMEN\ExamenJunio\ProcesosXML\obj\Debug\ProcesosXML.csprojResolveAssemblyReference.cache
+C:\TFS\GINEBRA\2016-PSS-ALUMNOS\Tomala Villarreal Jefferson Max (jtv215)\EXAMEN\ExamenJunio\ProcesosXML\bin\Debug\ProcesosXML.dll
+C:\TFS\GINEBRA\2016-PSS-ALUMNOS\Tomala Villarreal Jefferson Max (jtv215)\EXAMEN\ExamenJunio\ProcesosXML\bin\Debug\ProcesosXML.pdb
+C:\TFS\GINEBRA\2016-PSS-ALUMNOS\Tomala Villarreal Jefferson Max (jtv215)\EXAMEN\ExamenJunio\ProcesosXML\bin\Debug\ClassLibrary1.dll
+C:\TFS\GINEBRA\2016-PSS-ALUMNOS\Tomala Villarreal Jefferson Max (jtv215)\EXAMEN\ExamenJunio\ProcesosXML\bin\Debug\ClassLibrary1.pdb
+C:\TFS\GINEBRA\2016-PSS-ALUMNOS\Tomala Villarreal Jefferson Max (jtv215)\EXAMEN\ExamenJunio\ProcesosXML\obj\Debug\ProcesosXML.dll
+C:\TFS\GINEBRA\2016-PSS-ALUMNOS\Tomala Villarreal Jefferson Max (jtv215)\EXAMEN\ExamenJunio\ProcesosXML\obj\Debug\ProcesosXML.pdb

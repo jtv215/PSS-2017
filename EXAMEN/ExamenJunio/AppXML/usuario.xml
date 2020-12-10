@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Usuarios>
+  <Usuario DNI="1">
+    <Nombre>Martin</Nombre>
+    <Edad>5</Edad>
+  </Usuario>
+  <Usuario DNI="2">
+    <Nombre>Viviana</Nombre>
+    <Edad>30</Edad>
+  </Usuario>
+  <Usuario DNI="3">
+    <Nombre>kike</Nombre>
+    <Edad>32</Edad>
+  </Usuario>
+  <Usuario DNI="4">
+    <Nombre>Raul</Nombre>
+    <Edad>12</Edad>
+  </Usuario>
+  <Usuario DNI="5">
+    <Nombre>Juan</Nombre>
+    <Edad>25</Edad>
+  </Usuario>
+</Usuarios>

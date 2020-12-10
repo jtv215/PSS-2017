@@ -1,0 +1,15 @@
+C:\TFS\GINEBRA\2016-PSS-ALUMNOS\Tomala Villarreal Jefferson Max (jtv215)\Grupo Trabajo\Practica_03\TiroAlBlanco\TiroAlBlancoTest\obj\Debug\Fakes\tabm\b\TiroAlBlancoModel.Fakes.xml
+C:\TFS\GINEBRA\2016-PSS-ALUMNOS\Tomala Villarreal Jefferson Max (jtv215)\Grupo Trabajo\Practica_03\TiroAlBlanco\TiroAlBlancoTest\obj\Debug\Fakes\tabm\b\TiroAlBlancoModel.Fakes.dll
+C:\TFS\GINEBRA\2016-PSS-ALUMNOS\Tomala Villarreal Jefferson Max (jtv215)\Grupo Trabajo\Practica_03\TiroAlBlanco\TiroAlBlancoTest\obj\Debug\Fakes\tabm\b\TiroAlBlancoModel.Fakes.pdb
+C:\TFS\GINEBRA\2016-PSS-ALUMNOS\Tomala Villarreal Jefferson Max (jtv215)\Grupo Trabajo\Practica_03\TiroAlBlanco\TiroAlBlancoTest\obj\Debug\Fakes\tabm\b\Microsoft.QualityTools.Testing.Fakes.dll
+C:\TFS\GINEBRA\2016-PSS-ALUMNOS\Tomala Villarreal Jefferson Max (jtv215)\Grupo Trabajo\Practica_03\TiroAlBlanco\TiroAlBlancoTest\obj\Debug\Fakes\tabm\b\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\TFS\GINEBRA\2016-PSS-ALUMNOS\Tomala Villarreal Jefferson Max (jtv215)\Grupo Trabajo\Practica_03\TiroAlBlanco\TiroAlBlancoTest\obj\Debug\Fakes\tabm\b\TiroAlBlancoConsolaApp.exe
+C:\TFS\GINEBRA\2016-PSS-ALUMNOS\Tomala Villarreal Jefferson Max (jtv215)\Grupo Trabajo\Practica_03\TiroAlBlanco\TiroAlBlancoTest\obj\Debug\Fakes\tabm\b\TiroAlBlancoModel.dll
+C:\TFS\GINEBRA\2016-PSS-ALUMNOS\Tomala Villarreal Jefferson Max (jtv215)\Grupo Trabajo\Practica_03\TiroAlBlanco\TiroAlBlancoTest\obj\Debug\Fakes\tabm\b\TiroAlBlancoModel.pdb
+C:\TFS\GINEBRA\2016-PSS-ALUMNOS\Tomala Villarreal Jefferson Max (jtv215)\Grupo Trabajo\Practica_03\TiroAlBlanco\TiroAlBlancoTest\obj\Debug\Fakes\tabm\b\TiroAlBlancoConsolaApp.pdb
+C:\TFS\GINEBRA\2016-PSS-ALUMNOS\Tomala Villarreal Jefferson Max (jtv215)\Grupo Trabajo\Practica_03\TiroAlBlanco\TiroAlBlancoTest\obj\Debug\Fakes\tabm\b\es\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\TFS\GINEBRA\2016-PSS-ALUMNOS\Tomala Villarreal Jefferson Max (jtv215)\Grupo Trabajo\Practica_03\TiroAlBlanco\TiroAlBlancoTest\obj\Debug\Fakes\tabm\b\es\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\TFS\GINEBRA\2016-PSS-ALUMNOS\Tomala Villarreal Jefferson Max (jtv215)\Grupo Trabajo\Practica_03\TiroAlBlanco\TiroAlBlancoTest\obj\Debug\Fakes\tabm\o\f.csprojResolveAssemblyReference.cache
+C:\TFS\GINEBRA\2016-PSS-ALUMNOS\Tomala Villarreal Jefferson Max (jtv215)\Grupo Trabajo\Practica_03\TiroAlBlanco\TiroAlBlancoTest\obj\Debug\Fakes\tabm\o\TiroAlBlancoModel.Fakes.dll
+C:\TFS\GINEBRA\2016-PSS-ALUMNOS\Tomala Villarreal Jefferson Max (jtv215)\Grupo Trabajo\Practica_03\TiroAlBlanco\TiroAlBlancoTest\obj\Debug\Fakes\tabm\o\TiroAlBlancoModel.Fakes.pdb
+C:\TFS\GINEBRA\2016-PSS-ALUMNOS\Tomala Villarreal Jefferson Max (jtv215)\Grupo Trabajo\Practica_03\TiroAlBlanco\TiroAlBlancoTest\obj\Debug\Fakes\tabm\b\es-ES\TiroAlBlancoConsolaApp.resources.dll

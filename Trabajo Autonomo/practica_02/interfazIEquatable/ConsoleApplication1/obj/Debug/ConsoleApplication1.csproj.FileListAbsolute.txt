@@ -1,0 +1,2 @@
+C:\TFS\GINEBRA\2016-PSS-ALUMNOS\Tomala Villarreal Jefferson Max (jtv215)\Trabajo Autonomo\practica_02\interfazIEquatable\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\TFS\GINEBRA\2016-PSS-ALUMNOS\Tomala Villarreal Jefferson Max (jtv215)\Trabajo Autonomo\practica_02\interfazIEquatable\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache

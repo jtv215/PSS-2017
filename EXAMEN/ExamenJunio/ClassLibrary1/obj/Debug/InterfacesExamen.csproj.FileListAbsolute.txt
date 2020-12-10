@@ -1,0 +1,5 @@
+C:\TFS\GINEBRA\2016-PSS-ALUMNOS\Tomala Villarreal Jefferson Max (jtv215)\EXAMEN\ExamenJunio\ClassLibrary1\obj\Debug\InterfacesExamen.csprojResolveAssemblyReference.cache
+C:\TFS\GINEBRA\2016-PSS-ALUMNOS\Tomala Villarreal Jefferson Max (jtv215)\EXAMEN\ExamenJunio\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\TFS\GINEBRA\2016-PSS-ALUMNOS\Tomala Villarreal Jefferson Max (jtv215)\EXAMEN\ExamenJunio\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\TFS\GINEBRA\2016-PSS-ALUMNOS\Tomala Villarreal Jefferson Max (jtv215)\EXAMEN\ExamenJunio\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\TFS\GINEBRA\2016-PSS-ALUMNOS\Tomala Villarreal Jefferson Max (jtv215)\EXAMEN\ExamenJunio\ClassLibrary1\bin\Debug\ClassLibrary1.pdb

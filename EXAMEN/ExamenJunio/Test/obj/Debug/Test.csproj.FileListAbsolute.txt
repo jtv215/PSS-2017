@@ -1,0 +1,11 @@
+C:\TFS\GINEBRA\2016-PSS-ALUMNOS\Tomala Villarreal Jefferson Max (jtv215)\EXAMEN\ExamenJunio\Test\bin\Debug\Test.dll
+C:\TFS\GINEBRA\2016-PSS-ALUMNOS\Tomala Villarreal Jefferson Max (jtv215)\EXAMEN\ExamenJunio\Test\bin\Debug\Test.pdb
+C:\TFS\GINEBRA\2016-PSS-ALUMNOS\Tomala Villarreal Jefferson Max (jtv215)\EXAMEN\ExamenJunio\Test\bin\Debug\MantenimientoXML.dll
+C:\TFS\GINEBRA\2016-PSS-ALUMNOS\Tomala Villarreal Jefferson Max (jtv215)\EXAMEN\ExamenJunio\Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\TFS\GINEBRA\2016-PSS-ALUMNOS\Tomala Villarreal Jefferson Max (jtv215)\EXAMEN\ExamenJunio\Test\bin\Debug\ClassLibrary1.dll
+C:\TFS\GINEBRA\2016-PSS-ALUMNOS\Tomala Villarreal Jefferson Max (jtv215)\EXAMEN\ExamenJunio\Test\bin\Debug\MantenimientoXML.pdb
+C:\TFS\GINEBRA\2016-PSS-ALUMNOS\Tomala Villarreal Jefferson Max (jtv215)\EXAMEN\ExamenJunio\Test\bin\Debug\ClassLibrary1.pdb
+C:\TFS\GINEBRA\2016-PSS-ALUMNOS\Tomala Villarreal Jefferson Max (jtv215)\EXAMEN\ExamenJunio\Test\bin\Debug\es\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\TFS\GINEBRA\2016-PSS-ALUMNOS\Tomala Villarreal Jefferson Max (jtv215)\EXAMEN\ExamenJunio\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\TFS\GINEBRA\2016-PSS-ALUMNOS\Tomala Villarreal Jefferson Max (jtv215)\EXAMEN\ExamenJunio\Test\obj\Debug\Test.dll
+C:\TFS\GINEBRA\2016-PSS-ALUMNOS\Tomala Villarreal Jefferson Max (jtv215)\EXAMEN\ExamenJunio\Test\obj\Debug\Test.pdb

@@ -1,0 +1,5 @@
+C:\TFS\GINEBRA\2016-PSS-ALUMNOS\Tomala Villarreal Jefferson Max (jtv215)\Grupo Trabajo\Practica_03\TiroAlBlanco\TiroAlBlancoModel\bin\Debug\TiroAlBlancoModel.dll
+C:\TFS\GINEBRA\2016-PSS-ALUMNOS\Tomala Villarreal Jefferson Max (jtv215)\Grupo Trabajo\Practica_03\TiroAlBlanco\TiroAlBlancoModel\bin\Debug\TiroAlBlancoModel.pdb
+C:\TFS\GINEBRA\2016-PSS-ALUMNOS\Tomala Villarreal Jefferson Max (jtv215)\Grupo Trabajo\Practica_03\TiroAlBlanco\TiroAlBlancoModel\obj\Debug\TiroAlBlancoModel.csprojResolveAssemblyReference.cache
+C:\TFS\GINEBRA\2016-PSS-ALUMNOS\Tomala Villarreal Jefferson Max (jtv215)\Grupo Trabajo\Practica_03\TiroAlBlanco\TiroAlBlancoModel\obj\Debug\TiroAlBlancoModel.dll
+C:\TFS\GINEBRA\2016-PSS-ALUMNOS\Tomala Villarreal Jefferson Max (jtv215)\Grupo Trabajo\Practica_03\TiroAlBlanco\TiroAlBlancoModel\obj\Debug\TiroAlBlancoModel.pdb
